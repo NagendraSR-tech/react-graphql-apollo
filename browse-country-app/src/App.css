@@ -5,3 +5,9 @@
   text-align: center;
   border: #e6e;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
